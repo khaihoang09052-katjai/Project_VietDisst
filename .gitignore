@@ -1,0 +1,13 @@
+.env
+
+.credentials
+
+.venv 
+
+.dbeaver
+
+.project
+
+.vscode
+
+__pycache__
